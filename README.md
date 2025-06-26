@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paulami</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on **Sentiment Analysis Project**
+- 💻 I am currently exploring Data Science and AI/ML to build intelligent solutions and expand my knowledge in real-world applications.
 
 - 🌱 I’m currently learning **Flask, React Native, Node.js**
 
